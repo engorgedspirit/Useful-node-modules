@@ -27,6 +27,7 @@ To install a package
 <em>npm install package_name</em>
 or
 <em>npm i package_name</em>
+use -g option to install globally
 
 
 # Useful Packages List
