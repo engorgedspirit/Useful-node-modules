@@ -25,6 +25,8 @@ After installing to initialize node use this command
 To install a package
 
 <em>npm install package_name</em>
+or
+<em>npm i package_name</em>
 
 
 # Useful Packages List
