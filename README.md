@@ -54,7 +54,7 @@ To install a package
 
 5. [Semantic UI](https://semantic-ui.com/) is a modular and responsive CSS framework that is built on human-friendly HTML. It provides developers with an extensive set of UI components, including forms, grids, and menus, as well as a theming system for customizing the look and feel of their app.
 
-6.[Chakra UI](https://chakra-ui.com/) is a simple and accessible component library that is designed to provide developers with all the building blocks they need to create great-looking React applications. It includes customizable components and supports dark mode out of the box.
+6. [Chakra UI](https://chakra-ui.com/) is a simple and accessible component library that is designed to provide developers with all the building blocks they need to create great-looking React applications. It includes customizable components and supports dark mode out of the box.
 
 ## 🧑‍💻 Backend frameworks
 
@@ -101,6 +101,6 @@ To install a package
 
 2. [WS](https://github.com/websockets/ws): WS is a simple-to-use, fast, and thoroughly tested WebSocket client and server implementation that's a great, less abstract, and bare alternative to Socket.IO.
 
-3.[Phoenix Channels](https://hexdocs.pm/phoenix/channels.html): Phoenix Channels is a real-time communication library built into the Phoenix web framework for Elixir. It provides a clean API for creating channels, which can be used to send and receive messages between clients and servers.
+3. [Phoenix Channels](https://hexdocs.pm/phoenix/channels.html): Phoenix Channels is a real-time communication library built into the Phoenix web framework for Elixir. It provides a clean API for creating channels, which can be used to send and receive messages between clients and servers.
 
 4. [Pusher](https://pusher.com/): Pusher is a hosted service for building real-time web applications. It provides a simple API for sending and receiving messages over WebSockets, as well as a set of client libraries for different programming languages.
