@@ -43,7 +43,7 @@ To install a package
 6. [Next.js](https://nextjs.org/)
  is a lightweight and production-ready frontend framework that is built on top of React. It is often used for building server-rendered React applications and provides features such as automatic code splitting, static site generation, and serverless functions.
 
-## Styling frameworks
+## 🎨Styling frameworks
 1. [Bootstrap](https://getbootstrap.com/) is a widely used CSS framework that provides developers with the ability to create responsive and mobile-first sites. Although it is relatively bulky in size, it is also highly intuitive and powerful, with many modern UI kits based on it.
 
 2. [Tailwind](https://tailwindcss.com/) is a utility-first CSS framework that is designed for rapid UI development. It offers extensive customization options and is built to be highly flexible and easy to use.
@@ -86,14 +86,14 @@ To install a package
 
 4. [Restify](http://restify.com/) is a Node.js web service framework that's optimized for building semantically correct RESTful web services that are ready for production use at scale. Restify optimizes for introspection and performance.
 
-14. [Morgan](https://github.com/expressjs/morgan): Morgan is an HTTP request logger that stores HTTP requests, providing you with concise insight into how your app is being used and where there could be potential errors.
-
 ## ✍ Loggers
 1. [Winston](https://github.com/winstonjs/winston): Winston is a logger for just about everything, with support for multiple means of transport. It's been out there longer than Morgan, has a bigger community of maintainers, and more downloads.
 
 2. [Bunyan](https://github.com/trentm/node-bunyan): Bunyan is a simple and fast JSON logging library for Node.js services. It includes features such as log levels, child loggers, and stream-based output.
 
 3. [Log4j](https://logging.apache.org/log4j/2.x/): Log4j is a Java-based logging utility that provides a flexible API for logging messages to multiple destinations, such as console, file, and email.
+
+4. [Morgan](https://github.com/expressjs/morgan): Morgan is an HTTP request logger that stores HTTP requests, providing you with concise insight into how your app is being used and where there could be potential errors.
 
 ## 🤝 Web sockets
 
